@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "model": "Model S",
+        "name": "Tesla",
+        "brand": "Tesla",
+        "type": "Electric",
+        "price": 79999
+    },
+    {
+        "id": 2,
+        "model": "Corolla",
+        "name": "Toyota",
+        "brand": "Toyota",
+        "type": "Sedan",
+        "price": 20000
+    },
+    {
+        "id": 3,
+        "model": "Civic",
+        "name": "Honda",
+        "brand": "Honda",
+        "type": "Sedan",
+        "price": 22000
+    },
+    {
+        "id": 4,
+        "model": "Mustang",
+        "name": "Ford",
+        "brand": "Ford",
+        "type": "Sport",
+        "price": 55000
+    },
+    {
+        "id": 5,
+        "model": "Camaro",
+        "name": "Chevrolet",
+        "brand": "Chevrolet",
+        "type": "Sport",
+        "price": 60000
+    }
+]
